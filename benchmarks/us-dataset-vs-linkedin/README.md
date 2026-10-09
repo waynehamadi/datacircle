@@ -4,10 +4,12 @@ How many people in a B2B dataset still have the company and title the dataset sa
 
 **88% have the same company and the same title on LinkedIn** (95% CI: 86% to 89%, 2,628 of 3,000). 93% have the same current company.
 
+The same benchmark on datacircle.dev: https://datacircle.dev/b2b-data-accuracy
+
 ## Results
 
 | Measure | Share | 95% CI | Count |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Same company and same title | 88% | 86% to 89% | 2,628 of 3,000 |
 | Same current company | 93% | 92% to 93% | 2,776 of 3,000 |
 | LinkedIn URL still works | 97% | 96% to 97% | 2,901 of 3,000 |
@@ -15,7 +17,7 @@ How many people in a B2B dataset still have the company and title the dataset sa
 ## Where the other 12% are
 
 | Against LinkedIn | Share | Count |
-|---|---|---|
+| --- | --- | --- |
 | Same company, same title | 88% | 2,628 |
 | Same company, different title | 5% | 148 |
 | Different company | 1% | 34 |
@@ -27,7 +29,7 @@ Of the 148 different titles, 36 differ only in wording (one holds the other, or 
 ## By file and by the profile's age
 
 | Group | Same company and title | 95% CI | Count |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | In the 10M+ file | 88% | 85% to 90% | 585 of 665 |
 | In the 50M+ file only | 87% | 86% to 89% | 2,043 of 2,335 |
 | Updated 0 to 30 days before the snapshot | 75% | 71% to 79% | 299 of 399 |
@@ -35,12 +37,12 @@ Of the 148 different titles, 36 differ only in wording (one holds the other, or 
 | Updated 90 to 180 days before | 92% | 91% to 94% | 1,761 of 1,906 |
 | Updated 180+ days before | 53% | 44% to 63% | 56 of 105 |
 
-Our profiles were updated 104 days before the snapshot on average (median 123); 3% are older than 180 days.
+The profiles drawn were updated 104 days before the snapshot on average (median 123); 105 of the 3,000 were updated 180 days or more before.
 
 ## Fields, on the 2,901 profiles LinkedIn still has
 
 | Field | Same as LinkedIn | 95% CI | Count |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | First name | 97% | 96% to 98% | 2,816 of 2,901 |
 | Last name | 95% | 94% to 96% | 2,757 of 2,901 |
 | Headline | 92% | 91% to 93% | 2,662 of 2,901 |

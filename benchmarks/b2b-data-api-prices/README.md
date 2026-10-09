@@ -15,7 +15,7 @@ Each price is read from the vendor's own pricing page or docs (the Source column
 | LeadMagic | Profile Search, 1 credit | \$19.80 on the \$99/month plan | \$7.08 on the \$8,490/year plan | free | none: a paid plan at signup | A work email is 1 more credit | [leadmagic.io](https://leadmagic.io/pricing) |
 | Snov.io | profile by LinkedIn URL, 1 credit | \$39 on the \$39/month plan | \$5.54 on Ultra billed yearly (\$6,642) | not stated | 50 credits a month, without the API | A work email is 1 more credit; no phone by API | [snov.io](https://snov.io/pricing) |
 | Datagma | person, 2 credits | \$32.67 on the \$49/month plan | \$18.58 on Expert billed yearly (\$2,508) | free | 100 credits a month | A verified email is 1 more credit | [datagma.com](https://datagma.com/pricing) |
-| Coresignal | Multi-source employee API | \$392 on the \$49/month plan | \$10 on the \$5,000/month plan | free (only 200s are billed) | 2,000 credits (100 profiles) | 20 credits a profile, from its database, not fetched live | [coresignal.com](https://coresignal.com/pricing/) |
+| Coresignal | Multi-source employee API | \$392 on the \$49/month plan | \$10 on the \$5,000/month plan | free (only 200s are billed) | 2,000 credits (100 profiles) | 20 credits a profile, from its database | [coresignal.com](https://coresignal.com/pricing/) |
 
 ## A person with a work email
 
@@ -34,7 +34,7 @@ Each price is read from the vendor's own pricing page or docs (the Source column
 
 | Vendor | What its docs say | Source |
 | --- | --- | --- |
-| ZoomInfo | credits bought in bulk each year, 1 per new contact record, a no-match free | [docs.zoominfo.com](https://docs.zoominfo.com/docs/credit-usage-and-limits) |
+| ZoomInfo | credits bought in bulk each year, 1 per new contact record, the same record again free for a year, searches free | [docs.gtm.ai](https://docs.gtm.ai/docs/credit-usage-and-limits) |
 | Cognism | talk to sales; 1 credit per contact redeemed, searches free | [www.cognism.com](https://www.cognism.com/pricing) |
 | Crustdata | 1 credit a base profile, 1 more for a business email, 2 more for a phone; the price of a credit is on its dashboard | [docs.crustdata.com](https://docs.crustdata.com/general/pricing) |
 

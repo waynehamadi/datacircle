@@ -26,6 +26,12 @@ You send the provider's own request to api.datacircle.dev, with your Datacircle 
 
 Docs: https://docs.datacircle.dev/api-reference/up2data/enrich-one-linkedin-profile
 
+## What else we have
+
+Free: 10M+ U.S. B2B leads, as a flat file. Download it at datacircle.dev.
+
+Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. Docs: https://docs.datacircle.dev/mcp-server
+
 ## Questions
 
 **Which APIs?**
