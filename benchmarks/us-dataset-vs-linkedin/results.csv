@@ -1,0 +1,25 @@
+section,measure,share,ci_95_low,ci_95_high,count,of
+headline,same company and same title,0.88,0.86,0.89,2628,3000
+headline,same current company,0.93,0.92,0.93,2776,3000
+headline,LinkedIn URL still works,0.97,0.96,0.97,2901,3000
+breakdown,same company and same title,0.88,,,2628,3000
+breakdown,"same company, different title",0.05,,,148,3000
+breakdown,different company,0.01,,,34,3000
+breakdown,"we have a company, LinkedIn has none",0.03,,,91,3000
+breakdown,LinkedIn URL dead,0.03,,,99,3000
+different title,differ only in wording,,,,36,148
+different title,the company's name in our title,,,,29,148
+different title,another title,,,,83,148
+by file,in the 10M+ file: same company and title,0.88,0.85,0.90,585,665
+by file,in the 50M+ file only: same company and title,0.87,0.86,0.89,2043,2335
+by age,updated 0-30 days before the snapshot: same company and title,0.75,0.71,0.79,299,399
+by age,updated 30-90 days before: same company and title,0.87,0.84,0.90,512,590
+by age,updated 90-180 days before: same company and title,0.92,0.91,0.94,1761,1906
+by age,updated 180+ days before: same company and title,0.53,0.44,0.63,56,105
+fields,first name,0.97,0.96,0.98,2816,2901
+fields,last name,0.95,0.94,0.96,2757,2901
+fields,headline,0.92,0.91,0.93,2662,2901
+fields,still in the US,1.00,1.00,1.00,2901,2901
+fields,"state, where LinkedIn names one",1.00,1.00,1.00,2532,2536
+fields,"current job's start month, same company",0.94,0.93,0.95,1455,1552
+emails,have an email (not judged),0.27,,,,3000
