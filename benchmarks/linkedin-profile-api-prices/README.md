@@ -1,6 +1,6 @@
 # LinkedIn profile API prices, October 2026
 
-What 14 LinkedIn profile APIs charge for 1,000 profiles fetched by LinkedIn URL, from the smallest purchase each offers to the lowest price without a sales call.
+What 12 LinkedIn profile APIs charge for 1,000 profiles fetched by LinkedIn URL, from the smallest purchase each offers to the lowest price without a sales call.
 
 Each price is read from the vendor's own pricing page or docs (the Source column), on 2026-10-09. Per 1,000 is the page's price per credit times the credits one record costs. A number no page shows is "not stated" or "not public", never a guess. Prices change: the source is the reference.
 
@@ -16,8 +16,6 @@ Each price is read from the vendor's own pricing page or docs (the Source column
 | Scrapingdog | Profile Scraper API | \$10 on the \$40/month plan | \$4.50 on the \$90/month plan, \$1.36 on the \$30,000/month plan | not stated; failed requests free | 100 credits (2 profiles) | 50 credits a profile, 100 if the profile is protected | [www.scrapingdog.com](https://www.scrapingdog.com/profile-scraper-api/) |
 | Reverse Contact | now also ScrapIn | \$20 stored, \$40 fetched live, with \$100 of credits | \$5 stored, \$10 live, with \$5,000 of credits | live: charged only if found | 100 credits | Credits last 3 months; stored profiles unlimited on its \$249/month Go plan, for your own team | [www.reversecontact.com](https://www.reversecontact.com/pricing) |
 | Enrich Layer | Person Profile | \$100 with a \$10 pack; \$19.60 on the \$49/month plan | \$21.60 with a \$1,000 pack; \$7.70 on the \$22,788/year plan | free | 100 credits, 200 with a work email, for 30 days | Plans are a 12-month commitment; 1 credit a profile with use_cache=if-present, 2 with its default (a profile no older than 29 days) | [enrichlayer.com](https://enrichlayer.com/pricing) |
-| LeadMagic | Profile Search, 1 credit | \$19.80 on the \$99/month plan | \$7.08 on the \$8,490/year plan | free | none: a paid plan at signup | A work email is 1 more credit | [leadmagic.io](https://leadmagic.io/pricing) |
-| Wiza | Individual Reveal API, profile only | \$25 with 2,000 credits for \$50 | \$25; volume discounts by a sales call | free (an unmatched URL isn't charged) | not stated for the API | 1 credit a profile, 2 an email, 5 a phone; credits valid 12 months; two calls a profile: start the reveal, then fetch it | [help.wiza.co](https://help.wiza.co/en/articles/13551713-how-to-purchase-api-credits) |
 | Fresh LinkedIn Profile Data | on RapidAPI | \$40 on the \$10/month plan | \$10 on the \$1,000/month plan | not stated | none | 2 credits a profile, 1 more per option | [rapidapi.com](https://rapidapi.com/freshdata-freshdata-default/api/fresh-linkedin-profile-data) |
 | Lix | LinkedIn API | \$98 (\$49 for 500 credits) | \$98 | not stated | 10 credits | Credits never expire | [lix-it.com](https://lix-it.com/pricing) |
 | People Data Labs | Person Enrichment API | \$280 on the \$98/month plan (350 credits) | not public | free | 100 credits a month, without emails or phones | From its database, not fetched live | [www.peopledatalabs.com](https://www.peopledatalabs.com/pricing/person) |

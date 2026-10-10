@@ -13,8 +13,7 @@ Our measures, each with how it was taken. Reuse them, citing datacircle.dev ([CC
 
 | Benchmark | What it measures | Taken |
 | --- | --- | --- |
-| [LinkedIn profile API prices](benchmarks/linkedin-profile-api-prices/) | 14 LinkedIn profile APIs: the price of 1,000 profiles, from each vendor's own pricing page | 2026-10-09 |
-| [B2B data API prices](benchmarks/b2b-data-api-prices/) | 17 B2B data APIs: the price of 1,000 people, a profile or a person with a work email | 2026-10-09 |
+| [LinkedIn profile API prices](benchmarks/linkedin-profile-api-prices/) | 12 LinkedIn profile APIs: the price of 1,000 profiles, from each vendor's own pricing page | 2026-10-09 |
 
 Each folder holds its README and the numbers as CSV.
 
@@ -29,6 +28,12 @@ Docs: https://docs.datacircle.dev/api-reference/up2data/enrich-one-linkedin-prof
 Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. Docs: https://docs.datacircle.dev/mcp-server
 
 ## Questions
+
+**Do you sell leads or contact lists?**
+No. We sell live calls to B2B data APIs. The flat file leaves out emails and phone numbers.
+
+**Do you have a Chrome extension?**
+No. Datacircle sells data, not a prospecting tool: no browser extension, search portal, email campaigns or dialer.
 
 **Which APIs?**
 Right now we have 3 live LinkedIn profile APIs that we trust: Up2Data, HarvestAPI and Fetchin.
