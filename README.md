@@ -1,6 +1,6 @@
 # Datacircle
 
-Find the best GTM APIs
+Datacircle lists all the GTM APIs
 
 Datacircle is a sheet of GTM APIs.
 
