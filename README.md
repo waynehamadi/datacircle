@@ -31,5 +31,6 @@ Datacircle is a sheet of GTM APIs.
 - [Best LinkedIn person comment API in 2026](https://datacircle.dev/best-linkedin-person-comment-api)
 - [Best LinkedIn person reaction API in 2026](https://datacircle.dev/best-linkedin-person-reaction-api)
 - [Best cached company enrichment API in 2026](https://datacircle.dev/best-cached-company-enrichment-api)
+- [Best people search API in 2026](https://datacircle.dev/best-people-search-api)
 - [Best cached people search API in 2026](https://datacircle.dev/best-cached-people-search-api)
 - [Best cached company discovery API in 2026](https://datacircle.dev/best-cached-company-discovery-api)
