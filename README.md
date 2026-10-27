@@ -45,6 +45,7 @@ Datacircle is a sheet of GTM APIs.
 - [Best company enrichment API in 2026](https://datacircle.dev/best-company-enrichment-api)
 - [Best people search API in 2026](https://datacircle.dev/best-people-search-api)
 - [Best company discovery API in 2026](https://datacircle.dev/best-company-discovery-api)
-- [Best job postings API in 2026](https://datacircle.dev/best-job-postings-api)
+- [Best cached job postings API in 2026](https://datacircle.dev/best-job-postings-api)
 - [Best job posting details API in 2026](https://datacircle.dev/best-job-posting-details-api)
+- [Best cached job posting details API in 2026](https://datacircle.dev/best-cached-job-posting-details-api)
 - [Best people enrichment API in 2026](https://datacircle.dev/best-people-enrichment-api)
