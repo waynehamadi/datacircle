@@ -44,5 +44,8 @@ Datacircle is a sheet of GTM APIs.
 - [Best web search API in 2026](https://datacircle.dev/best-web-search-api)
 - [Best SERP API in 2026](https://datacircle.dev/best-serp-api)
 - [Best web scraping API in 2026](https://datacircle.dev/best-web-scraping-api)
+- [Best instagram profile API in 2026](https://datacircle.dev/best-instagram-profile-api)
+- [Best instagram post API in 2026](https://datacircle.dev/best-instagram-post-api)
 - [Best TikTok profile API in 2026](https://datacircle.dev/best-tiktok-profile-api)
 - [Best YouTube channel API in 2026](https://datacircle.dev/best-youtube-channel-api)
+- [Best YouTube channel video API in 2026](https://datacircle.dev/best-youtube-channel-video-api)
