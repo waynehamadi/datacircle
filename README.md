@@ -8,6 +8,9 @@ Datacircle is a sheet of GTM APIs.
 
 ## Best GTM APIs
 
+- [Best LinkedIn API in 2026](https://datacircle.dev/best-linkedin-api)
+- [Best phone API in 2026](https://datacircle.dev/best-phone-api)
+- [Best email API in 2026](https://datacircle.dev/best-email-api)
 - [Best LinkedIn profile API in 2026](https://datacircle.dev/best-linkedin-profile-api)
 - [Best email finder API in 2026](https://datacircle.dev/best-email-finder-api)
 - [Best email verification API in 2026](https://datacircle.dev/best-email-verification-api)
@@ -45,9 +48,13 @@ Datacircle is a sheet of GTM APIs.
 - [Best SERP API in 2026](https://datacircle.dev/best-serp-api)
 - [Best news API in 2026](https://datacircle.dev/best-news-api)
 - [Best web scraping API in 2026](https://datacircle.dev/best-web-scraping-api)
+- [Best related keywords API in 2026](https://datacircle.dev/best-related-keywords-api)
+- [Best X (Twitter) post API in 2026](https://datacircle.dev/best-x-twitter-post-api)
 - [Best Instagram profile API in 2026](https://datacircle.dev/best-instagram-profile-api)
 - [Best Instagram post API in 2026](https://datacircle.dev/best-instagram-post-api)
 - [Best TikTok profile API in 2026](https://datacircle.dev/best-tiktok-profile-api)
 - [Best TikTok video API in 2026](https://datacircle.dev/best-tiktok-video-api)
 - [Best YouTube channel API in 2026](https://datacircle.dev/best-youtube-channel-api)
 - [Best YouTube channel video API in 2026](https://datacircle.dev/best-youtube-channel-video-api)
+- [Best Reddit profile API in 2026](https://datacircle.dev/best-reddit-profile-api)
+- [Best Reddit post API in 2026](https://datacircle.dev/best-reddit-post-api)
