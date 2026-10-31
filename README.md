@@ -98,6 +98,7 @@ We benchmark all the agent tools and we put the results on our website.
 - [Best Facebook Marketplace search API in 2026](https://datacircle.dev/best-facebook-marketplace-search-api)
 - [Best Zillow search API in 2026](https://datacircle.dev/best-zillow-search-api)
 - [Best Realtor.com search API in 2026](https://datacircle.dev/best-realtor-com-search-api)
+- [Best Realtor.com property API in 2026](https://datacircle.dev/best-realtor-com-property-api)
 - [Best Google Hotels search API in 2026](https://datacircle.dev/best-google-hotels-search-api)
 - [Best Booking.com search API in 2026](https://datacircle.dev/best-booking-com-search-api)
 - [Best VIN decoder API in 2026](https://datacircle.dev/best-vin-decoder-api)
