@@ -84,6 +84,7 @@ We benchmark all the agent tools and we put the results on our website.
 - [Best Twitch clip API in 2026](https://datacircle.dev/best-twitch-clip-api)
 - [Best Snapchat profile API in 2026](https://datacircle.dev/best-snapchat-profile-api)
 - [Best Truth Social post API in 2026](https://datacircle.dev/best-truth-social-post-api)
+- [Best GitHub profile API in 2026](https://datacircle.dev/best-github-profile-api)
 - [Best Facebook Ad Library API in 2026](https://datacircle.dev/best-facebook-ad-library-api)
 - [Best G2 review API in 2026](https://datacircle.dev/best-g2-review-api)
 - [Best Capterra review API in 2026](https://datacircle.dev/best-capterra-review-api)
