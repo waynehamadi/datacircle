@@ -1,8 +1,8 @@
 # Datacircle
 
-Find the best agent tools
+Find the best GTM APIs
 
-We benchmark all the agent tools and we put the results on our website.
+We benchmark all the GTM APIs and we put the results on our website.
 
 [datacircle.dev](https://datacircle.dev) · [FAQ](https://datacircle.dev/faq) · wayne@datacircle.dev
 
