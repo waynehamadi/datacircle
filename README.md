@@ -84,6 +84,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Bluesky profile API in 2026](https://datacircle.dev/best-bluesky-profile-api)
 - [Best Bluesky post API in 2026](https://datacircle.dev/best-bluesky-post-api)
 - [Best Pinterest search API in 2026](https://datacircle.dev/best-pinterest-search-api)
+- [Best Pinterest pin API in 2026](https://datacircle.dev/best-pinterest-pin-api)
 - [Best Twitch profile API in 2026](https://datacircle.dev/best-twitch-profile-api)
 - [Best Twitch video API in 2026](https://datacircle.dev/best-twitch-video-api)
 - [Best Twitch clip API in 2026](https://datacircle.dev/best-twitch-clip-api)
