@@ -86,6 +86,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Snapchat profile API in 2026](https://datacircle.dev/best-snapchat-profile-api)
 - [Best Truth Social post API in 2026](https://datacircle.dev/best-truth-social-post-api)
 - [Best GitHub profile API in 2026](https://datacircle.dev/best-github-profile-api)
+- [Best GitHub repository API in 2026](https://datacircle.dev/best-github-repository-api)
 - [Best Facebook Ad Library API in 2026](https://datacircle.dev/best-facebook-ad-library-api)
 - [Best G2 review API in 2026](https://datacircle.dev/best-g2-review-api)
 - [Best Capterra review API in 2026](https://datacircle.dev/best-capterra-review-api)
