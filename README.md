@@ -115,6 +115,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best eBay product API in 2026](https://datacircle.dev/best-ebay-product-api)
 - [Best eBay search API in 2026](https://datacircle.dev/best-ebay-search-api)
 - [Best TikTok Shop product API in 2026](https://datacircle.dev/best-tiktok-shop-product-api)
+- [Best Facebook Marketplace listing API in 2026](https://datacircle.dev/best-facebook-marketplace-listing-api)
 - [Best Facebook Marketplace search API in 2026](https://datacircle.dev/best-facebook-marketplace-search-api)
 - [Best Zillow search API in 2026](https://datacircle.dev/best-zillow-search-api)
 - [Best Zillow property API in 2026](https://datacircle.dev/best-zillow-property-api)
@@ -123,4 +124,5 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best App Store search API in 2026](https://datacircle.dev/best-app-store-search-api)
 - [Best ChatGPT scraper API in 2026](https://datacircle.dev/best-chatgpt-scraper-api)
 - [Best Gemini scraper API in 2026](https://datacircle.dev/best-gemini-scraper-api)
+- [Best Google AI Overview scraper API in 2026](https://datacircle.dev/best-google-ai-overview-scraper-api)
 - [Best business verification API in 2026](https://datacircle.dev/best-business-verification-api)
