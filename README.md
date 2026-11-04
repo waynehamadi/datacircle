@@ -112,6 +112,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Google Shopping product API in 2026](https://datacircle.dev/best-google-shopping-product-api)
 - [Best Google Shopping search API in 2026](https://datacircle.dev/best-google-shopping-search-api)
 - [Best Walmart product API in 2026](https://datacircle.dev/best-walmart-product-api)
+- [Best Walmart search API in 2026](https://datacircle.dev/best-walmart-search-api)
 - [Best eBay product API in 2026](https://datacircle.dev/best-ebay-product-api)
 - [Best eBay search API in 2026](https://datacircle.dev/best-ebay-search-api)
 - [Best TikTok Shop product API in 2026](https://datacircle.dev/best-tiktok-shop-product-api)
