@@ -72,6 +72,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Related keywords API: best providers in 2026](https://datacircle.dev/best-related-keywords-api)
 - [Backlink API: best providers in 2026](https://datacircle.dev/best-backlink-api)
 - [Domain authority API: best providers in 2026](https://datacircle.dev/best-domain-authority-api)
+- [Domain WHOIS API: best providers in 2026](https://datacircle.dev/best-domain-whois-api)
 - [X (Twitter) profile API: best providers in 2026](https://datacircle.dev/best-x-twitter-profile-api)
 - [X (Twitter) post API: best providers in 2026](https://datacircle.dev/best-x-twitter-post-api)
 - [Instagram profile API: best providers in 2026](https://datacircle.dev/best-instagram-profile-api)
