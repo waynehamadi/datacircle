@@ -4,9 +4,7 @@ Find the best GTM APIs
 
 We benchmark all the GTM APIs and we put the results on our website.
 
-[datacircle.dev](https://datacircle.dev) · [FAQ](https://datacircle.dev/faq) · [Privacy](https://datacircle.dev/privacy) · [Support](https://datacircle.dev/support) · wayne@datacircle.dev
-
-Open API, no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1/openapi.json). MCP server, no key: `https://api.datacircle.dev/mcp`.
+[datacircle.dev](https://datacircle.dev) · [FAQ](https://datacircle.dev/faq) · wayne@datacircle.dev
 
 ## Best GTM APIs
 
@@ -19,6 +17,7 @@ Open API, no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1/openapi.
 - [Threads API: best providers in 2026](https://datacircle.dev/best-threads-api)
 - [Pinterest API: best providers in 2026](https://datacircle.dev/best-pinterest-api)
 - [SEO API: best providers in 2026](https://datacircle.dev/best-seo-api)
+- [Data enrichment API: best providers in 2026](https://datacircle.dev/best-data-enrichment-api)
 - [LinkedIn profile API: best providers in 2026](https://datacircle.dev/best-linkedin-profile-api)
 - [Email finder API: best providers in 2026](https://datacircle.dev/best-email-finder-api)
 - [Most accurate email finder API in 2026](https://datacircle.dev/most-accurate-email-finder-api)
@@ -92,6 +91,7 @@ Open API, no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1/openapi.
 - [Threads post API: best providers in 2026](https://datacircle.dev/best-threads-post-api)
 - [Bluesky profile API: best providers in 2026](https://datacircle.dev/best-bluesky-profile-api)
 - [Bluesky post API: best providers in 2026](https://datacircle.dev/best-bluesky-post-api)
+- [Telegram channel API: best providers in 2026](https://datacircle.dev/best-telegram-channel-api)
 - [Pinterest search API: best providers in 2026](https://datacircle.dev/best-pinterest-search-api)
 - [Pinterest pin API: best providers in 2026](https://datacircle.dev/best-pinterest-pin-api)
 - [Hacker News search API: best providers in 2026](https://datacircle.dev/best-hacker-news-search-api)
