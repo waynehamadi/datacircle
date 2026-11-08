@@ -4,7 +4,9 @@ Find the best GTM APIs
 
 We benchmark all the GTM APIs and we put the results on our website.
 
-[datacircle.dev](https://datacircle.dev) · [FAQ](https://datacircle.dev/faq) · wayne@datacircle.dev
+[datacircle.dev](https://datacircle.dev) · [FAQ](https://datacircle.dev/faq) · [Privacy](https://datacircle.dev/privacy) · [Support](https://datacircle.dev/support) · wayne@datacircle.dev
+
+Open API, no key: [api.datacircle.dev/v1](https://api.datacircle.dev/v1/openapi.json). MCP server, no key: `https://api.datacircle.dev/mcp`.
 
 ## Best GTM APIs
 
