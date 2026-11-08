@@ -136,6 +136,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Realtor.com search API: best providers in 2026](https://datacircle.dev/best-realtor-com-search-api)
 - [Realtor.com property API: best providers in 2026](https://datacircle.dev/best-realtor-com-property-api)
 - [App Store search API: best providers in 2026](https://datacircle.dev/best-app-store-search-api)
+- [Google Play search API: best providers in 2026](https://datacircle.dev/best-google-play-search-api)
 - [ChatGPT scraper API: best providers in 2026](https://datacircle.dev/best-chatgpt-scraper-api)
 - [Perplexity scraper API: best providers in 2026](https://datacircle.dev/best-perplexity-scraper-api)
 - [Gemini scraper API: best providers in 2026](https://datacircle.dev/best-gemini-scraper-api)
