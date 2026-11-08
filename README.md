@@ -55,6 +55,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [People lookup API: best providers in 2026](https://datacircle.dev/best-people-search-api)
 - [Company discovery API: best providers in 2026](https://datacircle.dev/best-company-discovery-api)
 - [Local business search API: best providers in 2026](https://datacircle.dev/best-local-business-search-api)
+- [Local business reviews API: best providers in 2026](https://datacircle.dev/best-local-business-reviews-api)
 - [Job postings API: best providers in 2026](https://datacircle.dev/best-job-postings-api)
 - [Full job posting API: best providers in 2026](https://datacircle.dev/best-full-job-posting-api)
 - [Job posting details API: best providers in 2026](https://datacircle.dev/best-job-posting-details-api)
