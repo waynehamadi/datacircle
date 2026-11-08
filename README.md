@@ -92,6 +92,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Bluesky profile API: best providers in 2026](https://datacircle.dev/best-bluesky-profile-api)
 - [Bluesky post API: best providers in 2026](https://datacircle.dev/best-bluesky-post-api)
 - [Telegram channel API: best providers in 2026](https://datacircle.dev/best-telegram-channel-api)
+- [Telegram channel post API: best providers in 2026](https://datacircle.dev/best-telegram-channel-post-api)
 - [Pinterest search API: best providers in 2026](https://datacircle.dev/best-pinterest-search-api)
 - [Pinterest pin API: best providers in 2026](https://datacircle.dev/best-pinterest-pin-api)
 - [Hacker News search API: best providers in 2026](https://datacircle.dev/best-hacker-news-search-api)
