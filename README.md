@@ -130,6 +130,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [eBay product API: best providers in 2026](https://datacircle.dev/best-ebay-product-api)
 - [eBay search API: best providers in 2026](https://datacircle.dev/best-ebay-search-api)
 - [TikTok Shop product API: best providers in 2026](https://datacircle.dev/best-tiktok-shop-product-api)
+- [TikTok Shop search API: best providers in 2026](https://datacircle.dev/best-tiktok-shop-search-api)
 - [Facebook Marketplace listing API: best providers in 2026](https://datacircle.dev/best-facebook-marketplace-listing-api)
 - [Facebook Marketplace search API: best providers in 2026](https://datacircle.dev/best-facebook-marketplace-search-api)
 - [Zillow search API: best providers in 2026](https://datacircle.dev/best-zillow-search-api)
