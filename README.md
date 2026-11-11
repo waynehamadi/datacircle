@@ -103,6 +103,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Twitch profile API: best providers in 2026](https://datacircle.dev/best-twitch-profile-api)
 - [Twitch video API: best providers in 2026](https://datacircle.dev/best-twitch-video-api)
 - [Twitch clip API: best providers in 2026](https://datacircle.dev/best-twitch-clip-api)
+- [Kick clip API: best providers in 2026](https://datacircle.dev/best-kick-clip-api)
 - [Snapchat profile API: best providers in 2026](https://datacircle.dev/best-snapchat-profile-api)
 - [Truth Social profile API: best providers in 2026](https://datacircle.dev/best-truth-social-profile-api)
 - [Truth Social post API: best providers in 2026](https://datacircle.dev/best-truth-social-post-api)
