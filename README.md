@@ -19,6 +19,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [SEO API: best providers in 2026](https://datacircle.dev/best-seo-api)
 - [Data enrichment API: best providers in 2026](https://datacircle.dev/best-data-enrichment-api)
 - [Real estate API: best providers in 2026](https://datacircle.dev/best-real-estate-api)
+- [Zillow API: best providers in 2026](https://datacircle.dev/best-zillow-api)
 - [LinkedIn profile API: best providers in 2026](https://datacircle.dev/best-linkedin-profile-api)
 - [Email finder API: best providers in 2026](https://datacircle.dev/best-email-finder-api)
 - [Most accurate email finder API in 2026](https://datacircle.dev/most-accurate-email-finder-api)
