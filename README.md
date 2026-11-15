@@ -141,6 +141,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Weibo post API: best providers in 2026](https://datacircle.dev/best-weibo-post-api)
 - [Xiaohongshu profile API: best providers in 2026](https://datacircle.dev/best-xiaohongshu-profile-api)
 - [Xiaohongshu note API: best providers in 2026](https://datacircle.dev/best-xiaohongshu-note-api)
+- [Bilibili video API: best providers in 2026](https://datacircle.dev/best-bilibili-video-api)
 - [Facebook Ad Library API: best providers in 2026](https://datacircle.dev/best-facebook-ad-library-api)
 - [Google Ads Transparency API: best providers in 2026](https://datacircle.dev/best-google-ads-transparency-api)
 - [LinkedIn Ad Library API: best providers in 2026](https://datacircle.dev/best-linkedin-ad-library-api)
