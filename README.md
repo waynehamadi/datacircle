@@ -139,6 +139,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [GitHub profile API: best providers in 2026](https://datacircle.dev/best-github-profile-api)
 - [GitHub repository API: best providers in 2026](https://datacircle.dev/best-github-repository-api)
 - [GitHub user repositories API: best providers in 2026](https://datacircle.dev/best-github-user-repository-api)
+- [Douyin profile API: best providers in 2026](https://datacircle.dev/best-douyin-profile-api)
 - [Douyin user video API: best providers in 2026](https://datacircle.dev/best-douyin-user-video-api)
 - [Douyin video API: best providers in 2026](https://datacircle.dev/best-douyin-video-api)
 - [Weibo profile API: best providers in 2026](https://datacircle.dev/best-weibo-profile-api)
