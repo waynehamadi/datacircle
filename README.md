@@ -149,6 +149,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Xiaohongshu profile API: best providers in 2026](https://datacircle.dev/best-xiaohongshu-profile-api)
 - [Xiaohongshu user note API: best providers in 2026](https://datacircle.dev/best-xiaohongshu-user-note-api)
 - [Xiaohongshu note API: best providers in 2026](https://datacircle.dev/best-xiaohongshu-note-api)
+- [Kuaishou video API: best providers in 2026](https://datacircle.dev/best-kuaishou-video-api)
 - [Bilibili profile API: best providers in 2026](https://datacircle.dev/best-bilibili-profile-api)
 - [Bilibili user video API: best providers in 2026](https://datacircle.dev/best-bilibili-user-video-api)
 - [Bilibili video API: best providers in 2026](https://datacircle.dev/best-bilibili-video-api)
