@@ -167,6 +167,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Google Play review API: best providers in 2026](https://datacircle.dev/best-google-play-review-api)
 - [Amazon product API: best providers in 2026](https://datacircle.dev/best-amazon-product-api)
 - [Amazon search API: best providers in 2026](https://datacircle.dev/best-amazon-search-api)
+- [Amazon review API: best providers in 2026](https://datacircle.dev/best-amazon-review-api)
 - [Google Shopping product API: best providers in 2026](https://datacircle.dev/best-google-shopping-product-api)
 - [Google Shopping search API: best providers in 2026](https://datacircle.dev/best-google-shopping-search-api)
 - [Walmart product API: best providers in 2026](https://datacircle.dev/best-walmart-product-api)
