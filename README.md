@@ -101,6 +101,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Related keywords API: best providers in 2026](https://datacircle.dev/best-related-keywords-api)
 - [Backlinks API: best providers in 2026](https://datacircle.dev/best-backlink-api)
 - [Domain authority API: best providers in 2026](https://datacircle.dev/best-domain-authority-api)
+- [Website traffic API: best providers in 2026](https://datacircle.dev/best-website-traffic-api)
 - [Domain WHOIS API: best providers in 2026](https://datacircle.dev/best-domain-whois-api)
 - [IP company lookup API: best providers in 2026](https://datacircle.dev/best-ip-company-lookup-api)
 - [IP geolocation API: best providers in 2026](https://datacircle.dev/best-ip-geolocation-api)
