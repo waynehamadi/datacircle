@@ -94,6 +94,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Search autocomplete API: best providers in 2026](https://datacircle.dev/best-search-autocomplete-api)
 - [News API: best providers in 2026](https://datacircle.dev/best-news-api)
 - [Image search API: best providers in 2026](https://datacircle.dev/best-image-search-api)
+- [Reverse image search API: best providers in 2026](https://datacircle.dev/best-reverse-image-search-api)
 - [Video search API: best providers in 2026](https://datacircle.dev/best-video-search-api)
 - [Web scraping API: best providers in 2026](https://datacircle.dev/best-web-scraping-api)
 - [Keyword research API: best providers in 2026](https://datacircle.dev/best-keyword-research-api)
