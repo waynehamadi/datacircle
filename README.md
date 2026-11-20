@@ -117,6 +117,8 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best TikTok video API providers in 2026](https://datacircle.dev/best-tiktok-video-api)
 - [Best YouTube channel API providers in 2026](https://datacircle.dev/best-youtube-channel-api)
 - [Best YouTube channel video API providers in 2026](https://datacircle.dev/best-youtube-channel-video-api)
+- [Best YouTube video details API providers in 2026](https://datacircle.dev/best-youtube-video-details-api)
+- [Best YouTube transcript API providers in 2026](https://datacircle.dev/best-youtube-transcript-api)
 - [Best Reddit profile API providers in 2026](https://datacircle.dev/best-reddit-profile-api)
 - [Best Reddit post API providers in 2026](https://datacircle.dev/best-reddit-post-api)
 - [Best Facebook page API providers in 2026](https://datacircle.dev/best-facebook-page-api)
