@@ -163,7 +163,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Google Ads Transparency API providers in 2026](https://datacircle.dev/best-google-ads-transparency-api)
 - [Best LinkedIn Ad Library API providers in 2026](https://datacircle.dev/best-linkedin-ad-library-api)
 - [Best TikTok Ad Library API providers in 2026](https://datacircle.dev/best-tiktok-ad-library-api)
-- [Best G2 review API providers in 2026](https://datacircle.dev/best-g2-review-api)
+- [Best G2 API providers in 2026](https://datacircle.dev/best-g2-review-api)
 - [Best Capterra review API providers in 2026](https://datacircle.dev/best-capterra-review-api)
 - [Best Trustpilot API providers in 2026](https://datacircle.dev/best-trustpilot-review-api)
 - [Best Glassdoor API providers in 2026](https://datacircle.dev/best-glassdoor-review-api)
