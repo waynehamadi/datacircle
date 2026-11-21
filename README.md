@@ -110,6 +110,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Domain WHOIS API providers in 2026](https://datacircle.dev/best-domain-whois-api)
 - [Best IP company lookup API providers in 2026](https://datacircle.dev/best-ip-company-lookup-api)
 - [Best IP reputation API providers in 2026](https://datacircle.dev/best-ip-reputation-api)
+- [Best Resume parsing API providers in 2026](https://datacircle.dev/best-resume-parsing-api)
 - [Best IP geolocation API providers in 2026](https://datacircle.dev/best-ip-geolocation-api)
 - [Best X (Twitter) profile API providers in 2026](https://datacircle.dev/best-x-twitter-profile-api)
 - [Best X (Twitter) post API providers in 2026](https://datacircle.dev/best-x-twitter-post-api)
