@@ -398,7 +398,7 @@ Each row's `page` is its plan's page on datacircle.dev, and `docs` the provider'
 - [LinkedIn profile API: best providers in 2026](https://datacircle.dev/best-linkedin-profile-api)
 - [Email finder API: best providers in 2026](https://datacircle.dev/best-email-finder-api)
 - [Most accurate email finder API in 2026](https://datacircle.dev/most-accurate-email-finder-api)
-- [Email validation API: best providers in 2026](https://datacircle.dev/best-email-verification-api)
+- [Email verification API: best providers in 2026](https://datacircle.dev/best-email-verification-api)
 - [Most accurate email verification API in 2026](https://datacircle.dev/most-accurate-email-verification-api)
 - [Phone finder API: best providers in 2026](https://datacircle.dev/best-phone-finder-api)
 - [Most accurate phone finder API in 2026](https://datacircle.dev/most-accurate-phone-finder-api)
