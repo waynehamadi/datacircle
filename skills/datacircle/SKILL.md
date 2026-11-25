@@ -458,6 +458,7 @@ Each row's `page` is its plan's page on datacircle.dev, and `docs` the provider'
 - [Keyword research API: best providers in 2026](https://datacircle.dev/best-keyword-research-api)
 - [Google Trends API: best providers in 2026](https://datacircle.dev/best-google-trends-api)
 - [Keyword ranking API: best providers in 2026](https://datacircle.dev/best-ranked-keywords-api)
+- [Rank tracking API: best providers in 2026](https://datacircle.dev/best-rank-tracking-api)
 - [Related keywords API: best providers in 2026](https://datacircle.dev/best-related-keywords-api)
 - [Backlinks API: best providers in 2026](https://datacircle.dev/best-backlink-api)
 - [Domain authority API: best providers in 2026](https://datacircle.dev/best-domain-authority-api)
