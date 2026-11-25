@@ -104,6 +104,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Keyword research API providers in 2026](https://datacircle.dev/best-keyword-research-api)
 - [Best Google Trends API providers in 2026](https://datacircle.dev/best-google-trends-api)
 - [Best Keyword ranking API providers in 2026](https://datacircle.dev/best-ranked-keywords-api)
+- [Best Rank tracking API providers in 2026](https://datacircle.dev/best-rank-tracking-api)
 - [Best Related keywords API providers in 2026](https://datacircle.dev/best-related-keywords-api)
 - [Best Backlinks API providers in 2026](https://datacircle.dev/best-backlink-api)
 - [Best Domain authority API providers in 2026](https://datacircle.dev/best-domain-authority-api)
