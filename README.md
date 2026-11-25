@@ -101,6 +101,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Reverse image search API providers in 2026](https://datacircle.dev/best-reverse-image-search-api)
 - [Best Video search API providers in 2026](https://datacircle.dev/best-video-search-api)
 - [Best Web scraping API providers in 2026](https://datacircle.dev/best-web-scraping-api)
+- [Best Website screenshot API providers in 2026](https://datacircle.dev/best-website-screenshot-api)
 - [Best Keyword research API providers in 2026](https://datacircle.dev/best-keyword-research-api)
 - [Best Google Trends API providers in 2026](https://datacircle.dev/best-google-trends-api)
 - [Best Keyword ranking API providers in 2026](https://datacircle.dev/best-ranked-keywords-api)
