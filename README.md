@@ -86,6 +86,7 @@ We benchmark all the GTM APIs and we put the results on our website.
 - [Best Local business search API providers in 2026](https://datacircle.dev/best-local-business-search-api)
 - [Best Local business reviews API providers in 2026](https://datacircle.dev/best-local-business-reviews-api)
 - [Best Address autocomplete API providers in 2026](https://datacircle.dev/best-address-autocomplete-api)
+- [Best Address validation API providers in 2026](https://datacircle.dev/best-address-validation-api)
 - [Best Job postings API providers in 2026](https://datacircle.dev/best-job-postings-api)
 - [Best Full job posting API providers in 2026](https://datacircle.dev/best-full-job-posting-api)
 - [Best Job posting details API providers in 2026](https://datacircle.dev/best-job-posting-details-api)
