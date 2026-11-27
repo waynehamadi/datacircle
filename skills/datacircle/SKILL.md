@@ -567,7 +567,6 @@ Each row's `page` is its plan's page on datacircle.dev, and `docs` the provider'
 - [Realtor.com property API: best providers in 2026](https://datacircle.dev/best-realtor-com-property-api)
 - [Property records API: best providers in 2026](https://datacircle.dev/best-property-records-api)
 - [Rent estimate API: best providers in 2026](https://datacircle.dev/best-rent-estimate-api)
-- [Building permits API: best providers in 2026](https://datacircle.dev/best-building-permits-api)
 - [App Store search API: best providers in 2026](https://datacircle.dev/best-app-store-search-api)
 - [Google Play search API: best providers in 2026](https://datacircle.dev/best-google-play-search-api)
 - [ChatGPT scraper API: best providers in 2026](https://datacircle.dev/best-chatgpt-scraper-api)
